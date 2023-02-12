@@ -11550,7 +11550,7 @@ footer a:hover, footer a:active, footer a:focus {
   padding-bottom: 5rem;
 }
 .masthead .masthead-device-mockup {
-  display: flex;
+  /* display: flex; */
   align-items: center;
   justify-content: center;
   position: relative;
